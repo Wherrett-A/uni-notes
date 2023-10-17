@@ -1,13 +1,13 @@
  **Using Wireshark**
- 1. Click 'capture'
- 2. Then 'Options...'
-1. Untick 2, 3, 4, 5
-2. select 'ethernet'
-3. click 'start'
+1. Click 'capture'
+2. Then 'Options...'
+3. Untick 2, 3, 4, 5
+4. select 'ethernet'
+5. click 'start'
     - This is all the packets Wireshark is capturing
-4. When you are done click capture and select stop
+6. When you are done click capture and select stop
     - Or alternatively you can click the red square button
-        1. Menus:
+    1. Menus:
         - pulldown menus
         - when you click one a drop down will appear
         - the ones we use the most will be capture and file menus
